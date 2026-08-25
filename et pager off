@@ -1,0 +1,13 @@
+ id |       name       |                           street_address                            |                                  description                                   
+----+------------------+---------------------------------------------------------------------+--------------------------------------------------------------------------------
+  1 | Bandar Djakarta  | Taman Impian Jaya Ancol, Jakarta Utara                              | Olahan seafood segar dengan suasana tepi pantai
+  2 | Union            | Plaza Senayan, Jakarta Pusat                                        | Bistro ikonis terkenal dengan Red Velvet Cake terbaik
+  3 | Plataran Menteng | Jl. Cokroaminoto No. 42, Jakarta Pusat                              | Kuliner Indonesia bergaya fine dining nusantara
+  4 | Henshin          | The Westin Jakarta Lt. 67-69, Jl. H.R. Rasuna Said, Jakarta Selatan | Restoran fine dining Nikkei tertinggi di Jakarta dengan pemandangan city light
+(4 rows)
+
+ id |  name   |                           street_address                            |                              description                               
+----+---------+---------------------------------------------------------------------+------------------------------------------------------------------------
+  4 | Henshin | The Westin Jakarta Lt. 67-69, Jl. H.R. Rasuna Said, Jakarta Selatan | Restoran fine dining Nikkei ikonis di lantai puncak The Westin Jakarta
+(1 row)
+
